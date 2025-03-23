@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou @weslleygama
-- 👀 Estou interessado em desenvolvimento Front-end, Back-end
-- 🌱 Estou aprendendo JavaScript
+- 👀 Estou interessado em desenvolvimento Back-end
+- 🌱 Estou aprendendo Java
 - 💞️ Estou procurando colaborar em projetos de pessoas com pouca experiencia, assim como eu.
 - 📫 Como chegar até mim: pelo instagram; @primata_falante ou weslley1.0@outlook.com
 <!---
